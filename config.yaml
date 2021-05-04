@@ -1,0 +1,11 @@
+---
+COWIN_PUBLIC_CALENDAR_API: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin
+pin_codes:
+  - 700129
+  - 700124
+  - 700126
+  - 700156
+check_for_next_days: 7
+minimum_age: 18
+polling_interval: 300
+log_level: INFO

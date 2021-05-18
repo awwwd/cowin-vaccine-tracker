@@ -1,5 +1,5 @@
 ---
-COWIN_PUBLIC_CALENDAR_API: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin
+COWIN_PUBLIC_CALENDAR_API: https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin
 pin_codes:
   - 700129
   - 700124
